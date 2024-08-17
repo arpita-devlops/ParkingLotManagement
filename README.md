@@ -11,3 +11,5 @@ Clone the repository to your local machine.
 Follow the installation instructions to set up the environment.
 Run the application and explore the features.
 This project is ideal for developers looking to build or enhance a parking management solution. Contributions and suggestions are welcome!
+
+![Image Alt](https://github.com/arpita-devlops/ParkingLotManagement/blob/main/Parking%20Lot%20-%20Google%20Chrome%2017-12-2023%2016_18_03.png?raw=true)
